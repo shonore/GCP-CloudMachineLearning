@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cloud Machine Learning Engine
 
 This repository contains samples for usage of the Google Cloud Machine Learning Engine (Cloud ML Engine). For installation instructions and overview, please see [the documentation](https://cloud.google.com/ml-engine/docs/). Please refer to **README.md** in each sample directory for more specific instructions. 
@@ -37,3 +38,7 @@ Please checkout [ML on GCP](https://github.com/GoogleCloudPlatform/ml-on-gcp) gu
 ## Contrib
 
 We welcome external sample contributions and TensorFlow contrib API samples to contrib. Please help us improve your experience. See [CONTRIBUTING.md](CONTRIBUTING.md)
+=======
+# GCP-CloudMachineLearning
+This repository contains sample machine learning projects to run on Google Cloud Platform
+>>>>>>> 4468d50684aa0cc92f923ae200145151e33f9845
